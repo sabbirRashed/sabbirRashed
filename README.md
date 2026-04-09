@@ -1,8 +1,11 @@
+
+<img width="2064" height="512" alt="banner-69d7da4b794ee" src="https://github.com/user-attachments/assets/90399d43-a585-4930-8f2a-f36b97d56dc0" />
+
+
+
 # Hi, I'm Sabbir Rahman 👋
 
 ### Frontend Web Developer & React Enthusiast
-
-I am a passionate developer currently specializing in building modern web interfaces. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
@@ -53,23 +56,21 @@ I am a passionate developer currently specializing in building modern web interf
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/sabbirrahman" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+  <a href="https://github.com/sabbirRashed" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
+  <a href="https://www.facebook.com/sabbir1516" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <p align="center"> srsabbirrahman12@gmail.com </p>
+  <p align="center"> 📨 srsabbirrahman12@gmail.com </p>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-![Sabbir's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)

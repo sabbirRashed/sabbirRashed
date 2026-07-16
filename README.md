@@ -45,7 +45,7 @@
 * **Tech Stack:** <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" />
 * **Outcome:** Successfully implemented complex state handling to manage product selections and cart synchronization.
 
-### 📖 [Vocabulary Learning App](https://YOUR_LIVE_LINK_HERE)
+### 📖 [Vocabulary Learning App](https://github.com/sabbirRashed/English-Janala-Project.git)
 **A dynamic tool designed for streamlined language acquisition and dictionary lookups.**
 
 * **Core Logic:** Developed using **Vanilla JavaScript** to handle asynchronous API requests and real-time DOM manipulation.

@@ -44,31 +44,43 @@
 ## 📂 Featured Projects
 
 ### 💡 SparkNest – Startup Idea-Sharing Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://sparknest-sabbir.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/SparkNest)
+[![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/SparkNest-server)
 
 **A full-stack platform where founders and builders share startup ideas and get early feedback.**
 
 - **Core Logic:** Built with **Next.js (App Router)** and an **Express/MongoDB** backend, featuring JWT-based authentication via `better-auth`.
 - **Key Features:** Trending ideas feed, atomic comment system, full profile management with avatar uploads, and a custom Light/Dark/System theme toggle powered by CSS variable–driven design tokens.
-- **Tech Stack:** <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/Framer_Motion-black?style=plastic&logo=framer&logoColor=white" />
+- **Tech Stack:** Next.js, React, Tailwind CSS, Hero UI, Framer Motion, Node.js, Express.js, MongoDB, Better Auth
 - **Outcome:** Designed and implemented a complete authenticated experience from signup to profile editing, with responsive mobile navigation and optimized loading states throughout.
 
+---
+
 ### ✈️ Voyentra – Tourism Booking Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://voyentra.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/Voyentra)
+[![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/Voyentra-server)
 
 **A full-stack travel booking application focused on smooth, animated user experiences.**
 
 - **Core Logic:** Built with **Next.js**, **Better Auth**, and role-based access control to manage guest, user, and admin permissions.
 - **Key Features:** Glassmorphism hero search bar, Framer Motion staggered animations, and a scroll-aware navbar with an auto-closing mobile drawer.
-- **Tech Stack:** <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /><img src="https://img.shields.io/badge/Framer_Motion-black?style=plastic&logo=framer&logoColor=white" />
+- **Tech Stack:** Next.js, React, Tailwind CSS, Hero UI, Framer Motion, Node.js, Express.js, MongoDB, Better Auth
 - **Outcome:** Solved key Next.js App Router challenges around server/client component boundaries while delivering a polished, animation-rich booking flow.
 
+---
+
 ### 🐐 QurbaniHat – Livestock Booking Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://qurbani-hat-phi-rose.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/QurbaniHat)
 
 **A booking platform for livestock purchases, built with authentication and protected routes.**
 
 - **Core Logic:** Developed with **Next.js**, featuring protected routes and secure authentication flows.
 - **Key Features:** Price-based sorting, role-aware access, and a deployed production build tested under real-world conditions.
-- **Tech Stack:** <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
-- **Outcome:** One of my earliest full deployments — a hands-on lesson in how theoretical concepts hold up under live, production-level conditions.
+- **Tech Stack:** Next.js, React, Tailwind CSS, Hero UI, Better Auth
+- **Outcome:** One of my earliest full deployments—a hands-on lesson in how theoretical concepts hold up under live, production-level conditions.
 
 ---
 

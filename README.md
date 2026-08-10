@@ -1,4 +1,4 @@
-<img width="2064" height="512" alt="banner-69d7da4b794ee" src="https://github.com/user-attachments/assets/90399d43-a585-4930-8f2a-f36b97d56dc0" />
+<img width="1400" height="350" alt="profile" src="https://github.com/user-attachments/assets/cf337174-0d97-4b2b-aceb-bf3aeb66ca93" />
 
 # Hi, I'm Sabbir Rahman 👋
 

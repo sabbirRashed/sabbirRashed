@@ -43,6 +43,25 @@
 
 ## 📂 Featured Projects
 
+### ⚖️ LegalEase – Legal Service Marketplace
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://legalease-chi-one.vercel.app/)
+[![Client Repository](https://img.shields.io/badge/GitHub-Client_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase)
+[![Server Repository](https://img.shields.io/badge/GitHub-Server_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase-Server)
+
+**A full-stack legal service marketplace designed to simplify the process of finding, hiring, and managing legal services.**
+
+- **Problem:** Finding suitable lawyers, communicating hiring requirements, managing requests, and handling payments can be fragmented across different platforms and manual processes.
+
+- **Solution:** Built a centralized marketplace where clients can discover lawyers, view their profiles and services, send hiring requests, make secure payments through Stripe, manage hiring history, and leave reviews.
+
+- **Role-Based System:** Implemented separate workflows and protected dashboards for **Clients, Lawyers, and Admins**, including profile management, hiring requests, transactions, and platform analytics.
+
+- **Tech Stack:** Next.js, React, Tailwind CSS, HeroUI, Framer Motion, Node.js, Express.js, MongoDB, Better Auth, JWT, Stripe
+
+- **Outcome:** Strengthened my full-stack development skills by implementing real-world authentication, role-based authorization, REST APIs, database operations, payment integration, and multiple user workflows.
+
+---
+
 ### 💡 SparkNest – Startup Idea-Sharing Platform
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://sparknest-sabbir.vercel.app/)
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/SparkNest)

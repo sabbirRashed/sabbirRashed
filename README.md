@@ -45,8 +45,8 @@
 
 ### ⚖️ LegalEase – Legal Service Marketplace
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://legalease-chi-one.vercel.app/)
-[![Client Repository](https://img.shields.io/badge/GitHub-Client_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase)
-[![Server Repository](https://img.shields.io/badge/GitHub-Server_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase-Server)
+[![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase)
+[![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/LegalEase-Server)
 
 **A full-stack legal service marketplace designed to simplify the process of finding, hiring, and managing legal services.**
 
@@ -87,19 +87,6 @@
 - **Key Features:** Glassmorphism hero search bar, Framer Motion staggered animations, and a scroll-aware navbar with an auto-closing mobile drawer.
 - **Tech Stack:** Next.js, React, Tailwind CSS, Hero UI, Framer Motion, Node.js, Express.js, MongoDB, Better Auth
 - **Outcome:** Solved key Next.js App Router challenges around server/client component boundaries while delivering a polished, animation-rich booking flow.
-
----
-
-### 🐐 QurbaniHat – Livestock Booking Platform
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://qurbani-hat-phi-rose.vercel.app/)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sabbirRashed/QurbaniHat)
-
-**A booking platform for livestock purchases, built with authentication and protected routes.**
-
-- **Core Logic:** Developed with **Next.js**, featuring protected routes and secure authentication flows.
-- **Key Features:** Price-based sorting, role-aware access, and a deployed production build tested under real-world conditions.
-- **Tech Stack:** Next.js, React, Tailwind CSS, Hero UI, Better Auth
-- **Outcome:** One of my earliest full deployments—a hands-on lesson in how theoretical concepts hold up under live, production-level conditions.
 
 ---
 

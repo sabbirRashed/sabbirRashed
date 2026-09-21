@@ -13,7 +13,7 @@
 - ⚛️ **Current Stack:** React.js, Next.js (App Router), Node.js, Express.js, MongoDB
 - 🎨 **UI & Styling:** Tailwind CSS, HeroUI, DaisyUI, Framer Motion
 - 📚 **Education:** Programming Hero (Batch 13) & BSc in Mathematics (running)
-- 🔭 **Building:** SparkNest, Voyentra, and QurbaniHat — full-stack platforms with authentication, real-time features, and theme-aware design systems
+- 🔭 **Building:** LegalEase, SparkNest, Voyentra, and QurbaniHat — full-stack platforms with authentication, real-time features, and theme-aware design systems
 - 🎯 **Goal:** MERN Stack Developer role — building impactful web applications and growing into a Software Engineer @ Global Level
 - 📍 **Location:** Bangladesh 🇧🇩
 
